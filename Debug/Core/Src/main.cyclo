@@ -1,0 +1,6 @@
+../Core/Src/main.c:92:6:Keypad_Scan	22
+../Core/Src/main.c:152:5:main	10
+../Core/Src/main.c:248:6:SystemClock_Config	3
+../Core/Src/main.c:296:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:329:13:MX_GPIO_Init	1
+../Core/Src/main.c:407:6:Error_Handler	1
